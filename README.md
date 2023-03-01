@@ -1,2 +1,2 @@
 # Python-estudo
- Projetos realizados em python
+ Pequenos projetos realizados em python para efeito de estudo.
